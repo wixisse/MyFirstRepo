@@ -1,1 +1,1 @@
-In this course, I've learned how to use Git for version control and GitHub for collaboration. I now understand how to create repositories, manage branches, and contribute to open-source projects using pull requests.
+I learned how Git tracks changes and GitHub enables collaboration.
